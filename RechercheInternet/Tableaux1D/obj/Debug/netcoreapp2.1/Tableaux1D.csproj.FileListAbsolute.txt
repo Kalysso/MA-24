@@ -1,0 +1,11 @@
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\obj\Debug\netcoreapp2.1\Tableaux1D.csprojAssemblyReference.cache
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\obj\Debug\netcoreapp2.1\Tableaux1D.csproj.CoreCompileInputs.cache
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\obj\Debug\netcoreapp2.1\Tableaux1D.AssemblyInfoInputs.cache
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\obj\Debug\netcoreapp2.1\Tableaux1D.AssemblyInfo.cs
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\bin\Debug\netcoreapp2.1\Tableaux1D.deps.json
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\bin\Debug\netcoreapp2.1\Tableaux1D.runtimeconfig.json
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\bin\Debug\netcoreapp2.1\Tableaux1D.runtimeconfig.dev.json
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\bin\Debug\netcoreapp2.1\Tableaux1D.dll
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\bin\Debug\netcoreapp2.1\Tableaux1D.pdb
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\obj\Debug\netcoreapp2.1\Tableaux1D.dll
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Tableaux1D\obj\Debug\netcoreapp2.1\Tableaux1D.pdb

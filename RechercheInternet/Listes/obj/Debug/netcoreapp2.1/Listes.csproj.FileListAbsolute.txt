@@ -1,0 +1,11 @@
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\obj\Debug\netcoreapp2.1\Listes.csprojAssemblyReference.cache
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\obj\Debug\netcoreapp2.1\Listes.csproj.CoreCompileInputs.cache
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\obj\Debug\netcoreapp2.1\Listes.AssemblyInfoInputs.cache
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\obj\Debug\netcoreapp2.1\Listes.AssemblyInfo.cs
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\bin\Debug\netcoreapp2.1\Listes.deps.json
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\bin\Debug\netcoreapp2.1\Listes.runtimeconfig.json
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\bin\Debug\netcoreapp2.1\Listes.runtimeconfig.dev.json
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\bin\Debug\netcoreapp2.1\Listes.dll
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\bin\Debug\netcoreapp2.1\Listes.pdb
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\obj\Debug\netcoreapp2.1\Listes.dll
+C:\Users\vicky.butty\Desktop\MA-24\RechercheInternet\Listes\obj\Debug\netcoreapp2.1\Listes.pdb
